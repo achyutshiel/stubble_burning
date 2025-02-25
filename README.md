@@ -76,3 +76,6 @@ The project seeks to create an AI-based system that uses real-time satellite ima
   - *Docker* for containerized deployment.  
   - *GitHub Actions & Runners* for CI/CD automation.  
   - *Postman* for API testing & monitoring.
+  - ![WhatsApp Image 2025-02-25 at 23 30 24_f4d770f4](https://github.com/user-attachments/assets/918e90c9-9d07-4191-8ae5-acdbac46583e)
+
+![WhatsApp Image 2025-02-25 at 23 30 24_f4d770f4](https://github.com/user-attachments/assets/207ea251-8ce2-4a2c-a03f-cf25380824a0)
